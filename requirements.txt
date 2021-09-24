@@ -1,0 +1,7 @@
+setuptools
+wheel
+django>=2.2
+bcrypt
+gunicorn
+geocoder
+folium

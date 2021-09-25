@@ -58,4 +58,4 @@ def gps(request):
     return render(request, 'index.html', context)
 
 def geolocation(request):
-    return render(request, 'leaflet-locatecontrol/demo/index.html')
+    return render(request, 'leaflet/demo/index.html')
